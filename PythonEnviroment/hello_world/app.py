@@ -1,5 +1,6 @@
 import json
-
+msg = "Hello World"
+print(msg)
 
 def lambda_handler(event, context):
     """Sample pure Lambda function
